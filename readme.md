@@ -1,5 +1,7 @@
 # Credit Card Fraud Detection with Cost-Sensitive Machine Learning
 
+![Credit Card Fraud Detection](IMAGE.png)
+
 End-to-end machine learning project for highly imbalanced credit card fraud detection using exploratory data analysis, feature engineering, resampling strategies, ensemble learning, and business-cost optimization.
 
 **Dataset:** [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
